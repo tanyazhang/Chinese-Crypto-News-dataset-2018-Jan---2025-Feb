@@ -10,7 +10,7 @@ This dataset contains 325940 news articles scraped from the Odaily API between 2
 ## 📂 File Information
 - **odaily_news_2018_2025.csv** (Main dataset)
 - **Source:** [Odaily API](https://www.odaily.news/)
-- **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- **License:** [CC0 1.0 Universal]
 
 ## 📥 Download
 To use this dataset:
